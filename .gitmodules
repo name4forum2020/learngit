@@ -1,3 +1,4 @@
 [submodule "gitskills"]
 	path = gitskills
 	url = https://github.com/name4forum2020/gitskills.git
+	branch = stable
